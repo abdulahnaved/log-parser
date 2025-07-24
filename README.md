@@ -36,5 +36,8 @@ cd log-parser
 chmod +x log-parser.sh
 ./log-parser.sh nginx-access.log
 
+---
 
-🔗 https://roadmap.sh/projects/log-parser
+## PROJECT LINK
+
+🔗 https://roadmap.sh/projects/nginx-log-analyser
